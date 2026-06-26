@@ -1266,7 +1266,7 @@
     "603859: history failed, used realtime fallback (Remote end closed connection without response)",
     "600063: history failed, used realtime fallback (Remote end closed connection without response)",
     "300174: history failed, used realtime fallback (Remote end closed connection without response)",
-    "002585: history failed, used realtime fallback (<urlopen error _ssl.c:993: The handshake operation timed out>)",
+    "002585: history failed, used realtime fallback (Remote end closed connection without response)",
     "600188: history failed, used realtime fallback (Remote end closed connection without response)",
     "601678: history failed, used realtime fallback (Remote end closed connection without response)",
     "301132: history failed, used realtime fallback (Remote end closed connection without response)",
