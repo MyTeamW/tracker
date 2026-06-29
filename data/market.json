@@ -1207,8 +1207,5 @@
       "sortOrder": null
     }
   ],
-  "failures": [
-    "002537: history failed, used realtime fallback (<urlopen error [Errno 101] Network is unreachable>)",
-    "601339: history failed, used realtime fallback (<urlopen error _ssl.c:993: The handshake operation timed out>)"
-  ]
+  "failures": []
 }
