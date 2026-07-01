@@ -942,20 +942,6 @@
     }
   ],
   "failures": [
-    "000925: history failed, used realtime fallback (Remote end closed connection without response)",
-    "600545: history failed, used realtime fallback (Remote end closed connection without response)",
-    "301013: history failed, used realtime fallback (<urlopen error _ssl.c:993: The handshake operation timed out>)",
-    "300166: history failed, used realtime fallback (Remote end closed connection without response)",
-    "300390: history failed, used realtime fallback (Remote end closed connection without response)",
-    "603078: history failed, used realtime fallback (Remote end closed connection without response)",
-    "300708: history failed, used realtime fallback (Remote end closed connection without response)",
-    "920249: Remote end closed connection without response; realtime fallback failed: No realtime data returned for 920249",
-    "300600: history failed, used realtime fallback (Remote end closed connection without response)",
-    "300241: history failed, used realtime fallback (Remote end closed connection without response)",
-    "600552: history failed, used realtime fallback (Remote end closed connection without response)",
-    "300394: history failed, used realtime fallback (Remote end closed connection without response)",
-    "000100: history failed, used realtime fallback (Remote end closed connection without response)",
-    "688503: history failed, used realtime fallback (Remote end closed connection without response)",
-    "002600: history failed, used realtime fallback (Remote end closed connection without response)"
+    "920249: No market data returned for 920249; realtime fallback failed: No realtime data returned for 920249"
   ]
 }
