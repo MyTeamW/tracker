@@ -675,7 +675,5 @@
       "sortOrder": null
     }
   ],
-  "failures": [
-    "002591: <urlopen error _ssl.c:994: The handshake operation timed out>; realtime fallback failed: Realtime close fallback is only used after market close"
-  ]
+  "failures": []
 }
