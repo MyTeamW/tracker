@@ -402,8 +402,8 @@
       "startDate": "2026-07-01",
       "startPrice": 6.03,
       "highPrice": 6.26,
-      "closePrice": 4.56,
-      "updatedAt": "2026-11-13",
+      "closePrice": 4.59,
+      "updatedAt": "2026-11-16",
       "deleted": false,
       "createdAt": "2026-07-01T06:43:51.857111+00:00",
       "sortOrder": 290.0
@@ -430,8 +430,8 @@
       "startDate": "2026-08-06",
       "startPrice": 7.28,
       "highPrice": 7.46,
-      "closePrice": 4.35,
-      "updatedAt": "2026-11-13",
+      "closePrice": 4.3,
+      "updatedAt": "2026-11-16",
       "deleted": false,
       "createdAt": "2026-06-04T00:48:46.688186+00:00",
       "sortOrder": 310.0
@@ -444,8 +444,8 @@
       "startDate": "2026-08-25",
       "startPrice": 12.21,
       "highPrice": 15.28,
-      "closePrice": 10.76,
-      "updatedAt": "2026-11-13",
+      "closePrice": 10.8,
+      "updatedAt": "2026-11-16",
       "deleted": false,
       "createdAt": "2026-05-28T00:42:34.378307+00:00",
       "sortOrder": 320.0
